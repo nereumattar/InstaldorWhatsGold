@@ -3,7 +3,7 @@
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
-sudo apt install -y git && sudo rm -rf InstaldorWhatsGold && git clone https://github.com/anozapvirus/InstaldorWhatsGold.git && sudo chmod -R 777 InstaldorWhatsGold && cd InstaldorWhatsGold && sudo ./install_primaria
+sudo apt install -y git && sudo rm -rf InstaldorWhatsGold && git clone https://github.com/nereumattar/InstaldorWhatsGold.git && sudo chmod -R 777 InstaldorWhatsGold && cd InstaldorWhatsGold && sudo ./install_primaria
 
 ```
 
